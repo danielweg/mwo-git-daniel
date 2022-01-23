@@ -9,5 +9,6 @@ public class SomeProgram
 	public void manageTheSatellite()
 	{
 		System.out.println("manageTheSatellite");
+		System.out.println("---");
 	}
 }
